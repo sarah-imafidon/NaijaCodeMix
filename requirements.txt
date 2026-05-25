@@ -1,0 +1,7 @@
+streamlit/sarah-imafidon/naijacodemix
+pandas
+openpyxl
+torch
+transformers
+scikit-learn
+numpy

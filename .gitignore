@@ -1,0 +1,23 @@
+﻿# Large model files
+hybrid_afroxlm_model.pt
+scaler.pkl
+*.pt
+*.pkl
+*.safetensors
+
+# Baseline model folder
+baseline_afroxlm_model/
+
+# Runtime files
+users_db.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Data folder (if large)
+data/
