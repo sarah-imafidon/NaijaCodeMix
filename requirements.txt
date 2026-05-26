@@ -1,7 +1,9 @@
-streamlit/sarah-imafidon/naijacodemix
+streamlit
 pandas
 openpyxl
 torch
 transformers
 scikit-learn
 numpy
+joblib
+gdown
